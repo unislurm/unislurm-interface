@@ -1,0 +1,23 @@
+{
+  "name": "QuickSafe",
+  "logoURI": "https://quicksafe.cc/logo.png",
+  "keywords": ["defi", "quicksafe", "yield"],
+  "timestamp": "2020-09-18T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 3,
+      "address": "0x8d449f7b2fe433c91e9a7ff0ab2d98fb4c6384a3",
+      "name": "NX0",
+      "symbol": "NX0",
+      "decimals": 18
+    },
+    {
+      "chainId": 3,
+      "address": "0x2d057bfb90dcf36f224c39b7426895a3abae88f3",
+      "name": "USDF",
+      "symbol": "USDF",
+      "decimals": 18
+    }
+  ],
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
